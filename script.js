@@ -6,3 +6,6 @@ setInterval(function () {
     counter = 1;
   }
 }, 3000);
+window.addEventListener('load', () => {
+  window.scroll(0,0)
+})
