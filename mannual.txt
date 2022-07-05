@@ -1,1 +1,1 @@
-This home page created with the the help of HTML,CSS, JS. The site is not made responsive. 
+This home page created with the the help of HTML,CSS,JS. The site is not made responsive. 
